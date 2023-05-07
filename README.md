@@ -1,0 +1,2 @@
+# Welcome
+This repository holds projects created during my time as a student in Computer Science 125. Each project is meant to showcase specific c++ concepts. Programs featured here are not meant to be optimized and such do not reflect my real programming ability.
